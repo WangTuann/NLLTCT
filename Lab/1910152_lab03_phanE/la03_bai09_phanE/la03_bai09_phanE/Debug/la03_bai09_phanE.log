@@ -1,0 +1,4 @@
+﻿  program.cpp
+D:\IT-STUDY\NLLT1\Lab\lab03\la03_bai09_phanE\la03_bai09_phanE\program.cpp(26,28): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\IT-STUDY\NLLT1\Lab\lab03\la03_bai09_phanE\la03_bai09_phanE\program.cpp(28,26): warning C4804: '<=': unsafe use of type 'bool' in operation
+  la03_bai09_phanE.vcxproj -> D:\IT-STUDY\NLLT1\Lab\lab03\la03_bai09_phanE\Debug\la03_bai09_phanE.exe

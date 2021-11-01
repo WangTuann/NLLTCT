@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab01_Bai02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program.cpp
+D:\Hoc\NLLT1\Lab\Lab01\Lab01_Bai02\Lab01_Bai02\Program.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab01_Bai02.vcxproj -> D:\Hoc\NLLT1\Lab\Lab01\Lab01_Bai02\Debug\Lab01_Bai02_xuatchuoi.exe

@@ -1,0 +1,4 @@
+﻿  program.cpp
+D:\IT-STUDY\NLLT1\Lab\1910152_TruongQuangTuan_BT3\1910152_TruongQuangTuan_nhom2_BT3\1910152_TruongQuangTuan_nhom2_BT3\1910152_ThuVien.h(75,9): warning C4101: 'j': unreferenced local variable
+D:\IT-STUDY\NLLT1\Lab\1910152_TruongQuangTuan_BT3\1910152_TruongQuangTuan_nhom2_BT3\1910152_TruongQuangTuan_nhom2_BT3\1910152_ThuVien.h(75,6): warning C4101: 'i': unreferenced local variable
+  1910152_TruongQuangTuan_nhom2_BT3.vcxproj -> D:\IT-STUDY\NLLT1\Lab\1910152_TruongQuangTuan_BT3\1910152_TruongQuangTuan_nhom2_BT3\Debug\1910152_TruongQuangTuan_nhom2_BT3.exe

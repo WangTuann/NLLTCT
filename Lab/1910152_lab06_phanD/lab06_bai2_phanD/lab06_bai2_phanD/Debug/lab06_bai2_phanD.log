@@ -1,0 +1,10 @@
+﻿  program.cpp
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\menu.h(3,32): error C2065: 'SIZE': undeclared identifier
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\menu.h(3,38): error C2065: 'SIZE': undeclared identifier
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\menu.h(35,32): error C2065: 'SIZE': undeclared identifier
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\menu.h(35,38): error C2065: 'SIZE': undeclared identifier
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\menu.h(51,3): error C3861: 'NhapTuDong_MaTran': identifier not found
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\menu.h(53,3): error C3861: 'XuatMaTran': identifier not found
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\program.cpp(27,25): error C2664: 'void XuLyMenu(int,int [][1],int &,int &)': cannot convert argument 2 from 'int [5][7]' to 'int [][1]'
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\program.cpp(27,18): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+D:\IT-STUDY\NLLT1\Lab\1910152_lab06_phanD\lab06_bai2_phanD\lab06_bai2_phanD\menu.h(35,6): message : see declaration of 'XuLyMenu'

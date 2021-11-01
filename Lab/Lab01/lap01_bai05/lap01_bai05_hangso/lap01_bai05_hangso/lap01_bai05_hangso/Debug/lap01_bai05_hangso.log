@@ -1,0 +1,4 @@
+﻿  program.cpp
+D:\Hoc\NLLT1\Lab\Lab01\lap01_bai05\lap01_bai05_hangso\lap01_bai05_hangso\lap01_bai05_hangso\program.cpp(12,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Hoc\NLLT1\Lab\Lab01\lap01_bai05\lap01_bai05_hangso\lap01_bai05_hangso\lap01_bai05_hangso\program.cpp(14,18): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+  lap01_bai05_hangso.vcxproj -> D:\Hoc\NLLT1\Lab\Lab01\lap01_bai05\lap01_bai05_hangso\lap01_bai05_hangso\Debug\lap01_bai05_hangso.exe

@@ -1,0 +1,2 @@
+﻿program.obj : error LNK2019: unresolved external symbol "void __cdecl NhapTuDong(int * const,int)" (?NhapTuDong@@YAXQAHH@Z) referenced in function "void __cdecl ChayChuongTrinh(void)" (?ChayChuongTrinh@@YAXXZ)
+D:\IT-STUDY\NLLT1\Lab\1910152_lab05_phanD\Lab05_D_Bai1\Debug\Lab05_D_Bai1.exe : fatal error LNK1120: 1 unresolved externals
